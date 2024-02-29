@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there!👋 I am David and I am looking for a job as a junior java developer.
+I would like to remark that my "first name" is motivation, and the second one is hard work.
+I started in this world looking for selfdevelpment and for a stable life, but I perfectly know it is not easy.
+I will always be grateful to my friend @jeronimogg90 who is currently helping me with all my doubts, but I will be even more grateful with the company that would not hesitate to take me as a part of their development team.
+I am a fast learner and my main objective is to become a Senior Java Developer 🌱. 
+
 
 <!--
 **Davius1/Davius1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
